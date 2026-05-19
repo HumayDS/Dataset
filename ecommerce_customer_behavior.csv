@@ -1,0 +1,16 @@
+customer_id,transaction_id,transaction_date,product_name,category,quantity,unit_price,cost,payment_method,country,new_customer,website_visits,add_to_cart,purchase_status
+C001,T1001,2025-01-03,Wireless Mouse,Electronics,2,25,15.0,Credit Card,Azerbaijan,Yes,5,2,Purchased
+C002,T1002,2025-01-04,Coffee Maker,Home Appliances,1,80,55.0,Cash,Azerbaijan,No,3,1,Purchased
+C003,T1003,2025-01-05,Notebook,Stationery,5,4,2.5,Card,Turkey,Yes,7,4,Purchased
+C004,T1004,2025-01-06,Headphones,Electronics,1,60,40.0,Credit Card,Georgia,No,4,1,Abandoned
+C005,T1005,2025-01-07,Water Bottle,Sports,3,12,7.0,Cash,Azerbaijan,Yes,6,3,Purchased
+C006,T1006,2025-01-08,Keyboard,Electronics,2,45,30.0,Card,Turkey,No,5,2,Purchased
+C007,T1007,2025-01-09,Backpack,Fashion,1,70,45.0,Credit Card,Azerbaijan,Yes,8,5,Purchased
+C008,T1008,2025-01-10,Desk Lamp,Home Appliances,2,35,20.0,Cash,Georgia,No,2,1,Abandoned
+C009,T1009,2025-01-11,Running Shoes,Sports,1,95,65.0,Card,Turkey,Yes,9,4,Purchased
+C010,T1010,2025-01-12,T-shirt,Fashion,4,18,10.0,Credit Card,Azerbaijan,No,6,2,Purchased
+C011,T1011,2025-01-13,Monitor,Electronics,1,220,170.0,Card,Georgia,Yes,5,1,Purchased
+C012,T1012,2025-01-14,Blender,Home Appliances,1,65,42.0,Cash,Azerbaijan,No,4,2,Purchased
+C013,T1013,2025-01-15,Pen Set,Stationery,6,3,1.5,Credit Card,Turkey,Yes,7,3,Purchased
+C014,T1014,2025-01-16,Yoga Mat,Sports,2,28,16.0,Card,Georgia,No,5,2,Abandoned
+C015,T1015,2025-01-17,Jacket,Fashion,1,120,80.0,Credit Card,Azerbaijan,Yes,10,6,Purchased
