@@ -1,0 +1,256 @@
+student_id,course_category,hours_spent,completed_lessons,quiz_score,subscription_type,completion_status,registration_date
+STD_001,Business,17.8,41,84.5,Free,Completed,2025-01-27
+STD_002,Design,90.2,44,72.7,Basic,Completed,2025-01-08
+STD_003,Data Science,30.1,6,70.3,Premium,Completed,2025-06-16
+STD_004,Design,67.7,45,53.2,Basic,Completed,2025-02-10
+STD_005,Business,53.6,45,56.7,Basic,Completed,2025-01-24
+STD_006,Design,16.1,25,90.8,Basic,Completed,2025-04-28
+STD_007,Data Science,19.4,35,95.3,Premium,Not Completed,2025-06-10
+STD_008,Business,106.8,40,61.7,Premium,Completed,2025-01-12
+STD_009,Data Science,31.2,43,57.4,Free,Completed,2025-04-08
+STD_010,Business,57.1,18,90.0,Basic,Not Completed,2025-02-23
+STD_011,Data Science,35.7,43,96.2,Premium,Completed,2025-05-17
+STD_012,Programming,33.2,47,67.7,Premium,Completed,2025-06-25
+STD_013,Business,101.9,21,86.6,Free,Not Completed,2025-04-13
+STD_014,Design,12.6,18,94.8,Premium,Not Completed,2025-02-24
+STD_015,Marketing,62.4,42,93.1,Free,Not Completed,2025-02-05
+STD_016,Design,90.7,16,72.3,Basic,Not Completed,2025-04-03
+STD_017,Marketing,119.7,15,48.3,Free,Completed,2025-01-29
+STD_018,Marketing,77.2,10,87.5,Premium,Completed,2025-04-09
+STD_019,Programming,73.5,25,68.1,Premium,Completed,2025-06-24
+STD_020,Programming,18.2,47,93.1,Premium,Not Completed,2025-01-29
+STD_021,Programming,55.0,19,67.2,Premium,Completed,2025-05-10
+STD_022,Design,105.1,7,57.9,Premium,Completed,2025-02-09
+STD_023,Design,92.7,24,72.4,Free,Not Completed,2025-05-06
+STD_024,Programming,17.9,2,61.8,Free,Completed,2025-03-03
+STD_025,Marketing,113.9,37,45.1,Free,Completed,2025-02-02
+STD_026,Programming,59.7,43,73.0,Premium,Not Completed,2025-02-24
+STD_027,Programming,91.9,35,81.4,Basic,Not Completed,2025-04-23
+STD_028,Data Science,56.9,34,54.9,Basic,Completed,2025-05-31
+STD_029,Data Science,31.5,36,53.2,Premium,Completed,2025-02-28
+STD_030,Data Science,109.1,5,91.6,Premium,Completed,2025-03-13
+STD_031,Design,60.8,43,72.4,Premium,Not Completed,2025-03-04
+STD_032,Data Science,97.9,31,51.4,Premium,Not Completed,2025-04-01
+STD_033,Data Science,52.3,28,91.8,Premium,Completed,2025-01-16
+STD_034,Data Science,88.7,26,88.0,Free,Completed,2025-02-18
+STD_035,Programming,56.6,35,65.3,Basic,Completed,2025-01-20
+STD_036,Data Science,97.9,29,91.4,Free,Completed,2025-01-24
+STD_037,Marketing,102.6,49,50.0,Basic,Completed,2025-04-13
+STD_038,Marketing,23.9,4,40.1,Basic,Not Completed,2025-03-15
+STD_039,Design,85.1,28,83.8,Premium,Not Completed,2025-02-09
+STD_040,Design,39.1,13,98.1,Premium,Completed,2025-03-22
+STD_041,Design,10.8,4,68.6,Free,Completed,2025-05-11
+STD_042,Data Science,102.9,6,44.1,Premium,Completed,2025-04-14
+STD_043,Design,113.3,8,74.2,Premium,Completed,2025-06-08
+STD_044,Design,53.2,6,75.0,Basic,Not Completed,2025-02-22
+STD_045,Marketing,87.4,43,54.3,Free,Not Completed,2025-04-28
+STD_046,Data Science,111.8,21,96.1,Basic,Completed,2025-01-19
+STD_047,Programming,29.5,35,55.9,Free,Completed,2025-04-05
+STD_048,Programming,23.1,19,90.0,Premium,Completed,2025-06-20
+STD_049,Business,39.4,36,79.8,Basic,Completed,2025-01-28
+STD_050,Design,68.6,48,56.3,Free,Not Completed,2025-02-22
+STD_051,Marketing,77.9,44,55.8,Basic,Completed,2025-01-24
+STD_052,Data Science,53.7,41,56.6,Basic,Completed,2025-06-13
+STD_053,Marketing,23.6,17,66.5,Premium,Completed,2025-01-29
+STD_054,Business,113.7,5,81.5,Premium,Completed,2025-04-05
+STD_055,Data Science,68.5,38,65.8,Basic,Not Completed,2025-01-11
+STD_056,Data Science,29.2,23,55.0,Basic,Not Completed,2025-06-08
+STD_057,Business,22.8,48,95.8,Free,Not Completed,2025-01-07
+STD_058,Marketing,89.7,12,59.9,Premium,Completed,2025-03-10
+STD_059,Data Science,95.5,11,46.5,Basic,Completed,2025-02-21
+STD_060,Business,45.2,30,89.2,Free,Completed,2025-06-18
+STD_061,Data Science,50.8,13,56.7,Basic,Not Completed,2025-06-14
+STD_062,Design,51.0,33,98.9,Basic,Completed,2025-01-30
+STD_063,Programming,25.5,17,97.8,Free,Completed,2025-06-02
+STD_064,Marketing,44.8,28,87.2,Premium,Completed,2025-04-09
+STD_065,Marketing,26.9,37,42.7,Free,Completed,2025-04-04
+STD_066,Programming,13.0,28,79.9,Premium,Not Completed,2025-06-19
+STD_067,Programming,87.8,8,58.0,Premium,Not Completed,2025-03-25
+STD_068,Business,85.2,26,73.3,Basic,Not Completed,2025-06-23
+STD_069,Programming,108.8,48,76.9,Basic,Completed,2025-03-19
+STD_070,Design,29.2,19,87.1,Premium,Not Completed,2025-04-30
+STD_071,Marketing,55.8,29,52.8,Premium,Completed,2025-06-18
+STD_072,Design,37.6,6,79.8,Basic,Completed,2025-03-02
+STD_073,Business,40.7,44,88.4,Free,Completed,2025-03-04
+STD_074,Marketing,75.3,31,86.1,Basic,Completed,2025-06-28
+STD_075,Data Science,61.9,25,54.6,Free,Not Completed,2025-02-26
+STD_076,Marketing,97.5,12,81.8,Free,Completed,2025-02-01
+STD_077,Design,20.3,30,67.9,Premium,Not Completed,2025-04-24
+STD_078,Marketing,98.7,40,93.5,Premium,Not Completed,2025-02-10
+STD_079,Business,104.1,48,67.0,Premium,Not Completed,2025-05-14
+STD_080,Data Science,77.1,32,56.5,Premium,Not Completed,2025-03-02
+STD_081,Data Science,43.6,18,93.6,Free,Completed,2025-03-01
+STD_082,Data Science,84.8,25,82.4,Basic,Not Completed,2025-03-26
+STD_083,Marketing,58.6,35,43.7,Basic,Completed,2025-05-28
+STD_084,Programming,59.9,25,96.6,Basic,Not Completed,2025-05-18
+STD_085,Business,89.5,48,88.0,Basic,Completed,2025-03-11
+STD_086,Marketing,60.8,28,63.3,Premium,Completed,2025-04-30
+STD_087,Marketing,117.8,9,72.0,Premium,Completed,2025-01-22
+STD_088,Business,54.3,42,92.0,Free,Not Completed,2025-04-08
+STD_089,Marketing,29.3,21,59.6,Basic,Not Completed,2025-03-06
+STD_090,Data Science,59.1,6,84.9,Basic,Completed,2025-06-16
+STD_091,Data Science,94.8,5,79.1,Free,Completed,2025-01-06
+STD_092,Data Science,22.5,40,47.6,Premium,Completed,2025-04-30
+STD_093,Design,34.5,45,62.1,Premium,Completed,2025-02-11
+STD_094,Programming,17.4,20,41.5,Premium,Not Completed,2025-04-12
+STD_095,Business,27.8,46,75.5,Free,Not Completed,2025-06-25
+STD_096,Design,97.6,39,87.8,Free,Not Completed,2025-05-17
+STD_097,Programming,81.1,28,44.1,Free,Not Completed,2025-05-06
+STD_098,Marketing,54.9,7,61.7,Premium,Completed,2025-04-22
+STD_099,Programming,89.4,12,97.9,Premium,Not Completed,2025-04-30
+STD_100,Programming,100.0,28,75.5,Free,Completed,2025-03-13
+STD_101,Design,33.0,29,67.9,Premium,Not Completed,2025-03-28
+STD_102,Marketing,61.8,2,59.5,Free,Not Completed,2025-03-08
+STD_103,Programming,37.2,22,75.8,Premium,Completed,2025-05-13
+STD_104,Marketing,14.8,13,83.2,Premium,Completed,2025-06-26
+STD_105,Data Science,79.3,31,69.4,Free,Not Completed,2025-02-26
+STD_106,Design,84.6,26,58.4,Basic,Not Completed,2025-05-22
+STD_107,Design,44.5,34,99.8,Basic,Not Completed,2025-06-29
+STD_108,Data Science,36.2,30,55.1,Premium,Completed,2025-03-22
+STD_109,Business,90.4,8,97.1,Free,Completed,2025-05-04
+STD_110,Design,88.3,18,98.6,Premium,Not Completed,2025-01-26
+STD_111,Programming,39.1,13,61.7,Free,Completed,2025-03-12
+STD_112,Business,117.0,3,73.2,Premium,Not Completed,2025-01-27
+STD_113,Marketing,71.0,1,68.2,Basic,Completed,2025-01-14
+STD_114,Data Science,113.2,17,68.7,Basic,Not Completed,2025-01-19
+STD_115,Business,77.4,37,43.2,Premium,Not Completed,2025-01-22
+STD_116,Design,18.6,16,85.9,Premium,Completed,2025-05-14
+STD_117,Design,56.8,25,66.6,Basic,Not Completed,2025-05-26
+STD_118,Data Science,11.9,40,97.6,Free,Completed,2025-03-09
+STD_119,Design,14.3,43,54.4,Free,Completed,2025-01-01
+STD_120,Programming,56.8,27,75.6,Free,Completed,2025-03-15
+STD_121,Data Science,37.5,46,91.6,Premium,Completed,2025-03-09
+STD_122,Business,72.8,41,88.2,Basic,Completed,2025-05-20
+STD_123,Business,79.5,15,94.5,Free,Completed,2025-02-12
+STD_124,Programming,73.4,20,89.5,Basic,Completed,2025-04-30
+STD_125,Programming,40.0,45,64.2,Premium,Not Completed,2025-04-23
+STD_126,Programming,73.8,6,93.4,Premium,Not Completed,2025-01-07
+STD_127,Design,31.3,6,80.5,Premium,Completed,2025-06-22
+STD_128,Business,71.3,18,85.8,Basic,Not Completed,2025-03-13
+STD_129,Marketing,119.6,12,66.2,Free,Not Completed,2025-03-31
+STD_130,Business,43.3,27,80.2,Basic,Not Completed,2025-06-27
+STD_131,Design,38.1,32,96.7,Free,Not Completed,2025-01-23
+STD_132,Marketing,34.0,21,47.0,Premium,Completed,2025-06-18
+STD_133,Design,58.1,35,43.3,Basic,Not Completed,2025-06-10
+STD_134,Design,92.4,29,52.2,Free,Not Completed,2025-04-23
+STD_135,Design,60.7,45,41.7,Free,Completed,2025-03-21
+STD_136,Business,6.6,36,64.5,Free,Not Completed,2025-01-31
+STD_137,Programming,100.7,42,69.9,Premium,Not Completed,2025-04-17
+STD_138,Design,117.7,31,54.6,Free,Not Completed,2025-02-18
+STD_139,Data Science,63.4,39,92.8,Basic,Not Completed,2025-03-29
+STD_140,Programming,35.7,33,40.2,Premium,Not Completed,2025-02-08
+STD_141,Design,66.9,29,60.7,Premium,Not Completed,2025-04-27
+STD_142,Business,105.0,21,98.8,Premium,Not Completed,2025-03-01
+STD_143,Marketing,52.2,50,59.1,Premium,Not Completed,2025-04-09
+STD_144,Business,96.1,43,79.1,Basic,Completed,2025-02-02
+STD_145,Data Science,116.0,33,59.9,Basic,Completed,2025-05-15
+STD_146,Business,6.8,30,48.6,Free,Not Completed,2025-03-09
+STD_147,Data Science,76.7,22,63.8,Basic,Not Completed,2025-03-23
+STD_148,Design,87.7,41,85.6,Free,Completed,2025-03-02
+STD_149,Business,83.7,41,57.2,Premium,Completed,2025-04-22
+STD_150,Data Science,92.4,7,82.2,Basic,Completed,2025-06-27
+STD_151,Data Science,108.9,20,42.8,Basic,Not Completed,2025-04-06
+STD_152,Design,21.7,28,71.9,Premium,Completed,2025-02-13
+STD_153,Design,14.1,12,92.3,Premium,Completed,2025-05-08
+STD_154,Programming,21.5,38,67.7,Basic,Not Completed,2025-06-20
+STD_155,Programming,108.4,1,67.9,Premium,Completed,2025-01-19
+STD_156,Programming,113.7,29,99.3,Premium,Not Completed,2025-06-26
+STD_157,Marketing,57.5,17,58.1,Basic,Completed,2025-03-02
+STD_158,Programming,70.8,25,74.5,Free,Not Completed,2025-03-12
+STD_159,Data Science,70.1,1,81.1,Premium,Not Completed,2025-03-15
+STD_160,Programming,96.9,50,76.4,Free,Completed,2025-06-08
+STD_161,Business,82.9,17,83.3,Premium,Completed,2025-06-10
+STD_162,Data Science,9.5,42,87.3,Premium,Not Completed,2025-02-03
+STD_163,Marketing,109.6,6,59.6,Free,Completed,2025-02-03
+STD_164,Design,105.8,35,62.0,Basic,Completed,2025-03-07
+STD_165,Programming,116.2,31,57.7,Free,Not Completed,2025-01-20
+STD_166,Marketing,91.7,10,53.5,Premium,Not Completed,2025-01-24
+STD_167,Marketing,6.6,26,72.2,Basic,Not Completed,2025-05-30
+STD_168,Data Science,99.6,25,96.4,Premium,Completed,2025-05-01
+STD_169,Programming,76.2,2,96.6,Premium,Completed,2025-06-15
+STD_170,Programming,78.1,5,67.9,Premium,Not Completed,2025-01-30
+STD_171,Marketing,10.2,9,42.2,Free,Completed,2025-03-02
+STD_172,Design,20.6,35,67.2,Basic,Completed,2025-04-17
+STD_173,Marketing,16.4,42,69.4,Basic,Completed,2025-06-26
+STD_174,Business,30.0,24,66.7,Basic,Completed,2025-06-25
+STD_175,Programming,67.6,24,98.7,Free,Not Completed,2025-03-12
+STD_176,Marketing,116.3,13,96.9,Free,Completed,2025-06-14
+STD_177,Programming,73.7,41,41.3,Free,Completed,2025-05-25
+STD_178,Business,12.9,14,85.9,Premium,Completed,2025-03-01
+STD_179,Design,94.1,22,87.3,Free,Not Completed,2025-02-07
+STD_180,Data Science,67.1,9,87.9,Premium,Completed,2025-02-03
+STD_181,Design,46.2,1,87.3,Basic,Completed,2025-02-14
+STD_182,Design,11.0,17,84.5,Free,Completed,2025-05-02
+STD_183,Data Science,94.5,29,70.8,Basic,Completed,2025-06-07
+STD_184,Design,88.6,3,94.5,Basic,Not Completed,2025-06-14
+STD_185,Marketing,12.0,2,68.7,Basic,Completed,2025-05-06
+STD_186,Data Science,109.6,46,44.4,Basic,Completed,2025-01-17
+STD_187,Design,36.6,9,78.0,Premium,Not Completed,2025-04-08
+STD_188,Design,66.0,39,67.2,Basic,Completed,2025-06-29
+STD_189,Design,103.1,8,79.1,Premium,Completed,2025-04-21
+STD_190,Marketing,107.1,29,64.8,Basic,Not Completed,2025-01-25
+STD_191,Programming,54.1,21,79.9,Free,Not Completed,2025-01-18
+STD_192,Data Science,100.7,6,45.6,Premium,Not Completed,2025-02-03
+STD_193,Design,11.9,36,97.4,Basic,Completed,2025-04-16
+STD_194,Marketing,105.5,23,96.5,Premium,Completed,2025-03-15
+STD_195,Design,40.9,39,46.2,Free,Completed,2025-06-18
+STD_196,Design,30.8,31,46.5,Basic,Completed,2025-03-13
+STD_197,Design,31.0,37,65.7,Premium,Completed,2025-06-05
+STD_198,Business,100.4,43,56.0,Basic,Not Completed,2025-03-28
+STD_199,Design,5.7,23,92.2,Premium,Not Completed,2025-01-18
+STD_200,Data Science,90.2,10,98.3,Premium,Completed,2025-04-07
+STD_201,Programming,57.2,27,49.4,Premium,Not Completed,2025-05-26
+STD_202,Business,14.8,39,43.2,Premium,Completed,2025-06-22
+STD_203,Marketing,36.3,6,79.7,Premium,Not Completed,2025-04-17
+STD_204,Programming,29.8,18,70.7,Basic,Completed,2025-03-14
+STD_205,Programming,83.0,44,69.2,Free,Completed,2025-04-12
+STD_206,Business,11.3,39,52.3,Free,Not Completed,2025-03-16
+STD_207,Marketing,18.8,21,69.8,Free,Completed,2025-04-08
+STD_208,Programming,85.9,35,70.0,Free,Not Completed,2025-01-11
+STD_209,Programming,7.2,28,95.3,Premium,Not Completed,2025-05-27
+STD_210,Data Science,86.6,26,65.1,Basic,Completed,2025-03-25
+STD_211,Programming,97.2,11,77.1,Free,Not Completed,2025-01-28
+STD_212,Data Science,55.1,16,64.0,Basic,Not Completed,2025-03-28
+STD_213,Design,43.3,15,50.1,Premium,Completed,2025-05-16
+STD_214,Programming,27.3,33,86.6,Premium,Completed,2025-03-02
+STD_215,Design,21.8,7,51.8,Free,Completed,2025-02-15
+STD_216,Design,77.2,50,67.8,Premium,Not Completed,2025-06-24
+STD_217,Programming,78.9,37,99.2,Premium,Not Completed,2025-02-08
+STD_218,Programming,12.9,29,66.5,Basic,Completed,2025-04-01
+STD_219,Data Science,13.5,33,67.7,Free,Not Completed,2025-03-15
+STD_220,Data Science,79.1,5,98.6,Premium,Not Completed,2025-04-29
+STD_221,Data Science,68.7,38,87.5,Basic,Completed,2025-03-24
+STD_222,Data Science,59.7,39,49.1,Basic,Completed,2025-03-29
+STD_223,Data Science,14.7,46,78.8,Free,Not Completed,2025-04-23
+STD_224,Programming,65.1,34,49.5,Basic,Not Completed,2025-04-15
+STD_225,Programming,43.9,50,75.9,Free,Not Completed,2025-01-25
+STD_226,Design,83.0,36,57.0,Free,Not Completed,2025-01-21
+STD_227,Programming,81.3,38,95.0,Premium,Not Completed,2025-02-03
+STD_228,Design,86.5,39,45.1,Basic,Not Completed,2025-02-02
+STD_229,Design,85.8,43,96.8,Free,Not Completed,2025-05-11
+STD_230,Business,7.1,24,58.5,Basic,Not Completed,2025-02-19
+STD_231,Programming,120.0,15,49.3,Free,Completed,2025-06-19
+STD_232,Design,105.8,22,77.1,Basic,Completed,2025-02-11
+STD_233,Business,100.6,12,86.3,Premium,Not Completed,2025-01-12
+STD_234,Marketing,46.9,27,83.2,Premium,Not Completed,2025-04-25
+STD_235,Marketing,66.4,15,58.6,Free,Not Completed,2025-06-23
+STD_236,Programming,118.2,37,67.7,Basic,Not Completed,2025-02-11
+STD_237,Programming,97.1,13,48.3,Free,Not Completed,2025-04-06
+STD_238,Design,112.4,36,82.7,Free,Not Completed,2025-01-22
+STD_239,Design,23.4,49,67.0,Free,Not Completed,2025-01-24
+STD_240,Data Science,98.9,15,93.1,Basic,Completed,2025-04-12
+STD_241,Data Science,48.0,33,63.2,Basic,Completed,2025-01-08
+STD_242,Programming,112.0,21,90.4,Free,Completed,2025-01-10
+STD_243,Business,110.5,19,68.3,Premium,Not Completed,2025-04-25
+STD_244,Programming,5.6,40,44.8,Free,Completed,2025-05-21
+STD_245,Programming,75.0,47,65.4,Free,Not Completed,2025-02-01
+STD_246,Design,32.4,4,78.3,Basic,Completed,2025-01-29
+STD_247,Design,73.6,32,41.0,Premium,Completed,2025-02-06
+STD_248,Business,54.4,19,76.9,Premium,Not Completed,2025-02-17
+STD_249,Programming,81.8,43,71.4,Free,Completed,2025-04-10
+STD_250,Programming,10.0,31,63.2,Basic,Completed,2025-04-02
+STD_143,Marketing,52.2,50,59.1,Premium,Not Completed,2025-04-09
+STD_007,Data Science,19.4,35,95.3,Premium,Not Completed,2025-06-10
+STD_098,Marketing,54.9,7,61.7,Premium,Completed,2025-04-22
+STD_061,Data Science,50.8,13,56.7,Basic,Not Completed,2025-06-14
+STD_113,Marketing,71.0,1,68.2,Basic,Completed,2025-01-14
