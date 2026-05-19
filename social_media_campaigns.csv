@@ -1,0 +1,21 @@
+campaign_id,campaign_name,platform,country,impressions,clicks,conversions,ad_spend,revenue
+CMP001,Black Friday,Facebook,Georgia,46905,1112,32,2353,1472
+CMP002,Summer Sale,Instagram,Azerbaijan,11717,4667,64,4937,4416
+CMP003,Holiday Promo,Facebook,Turkey,19328,2105,278,317,11120
+CMP004,Holiday Promo,TikTok,Turkey,43618,2478,434,153,15190
+CMP005,Summer Sale,YouTube,Azerbaijan,15189,1963,410,2857,11480
+CMP006,Holiday Promo,Instagram,Turkey,28526,3017,329,2266,6580
+CMP007,Summer Sale,Instagram,Georgia,10164,4722,170,3062,6630
+CMP008,Holiday Promo,TikTok,Turkey,19935,2570,60,2007,1620
+CMP009,Black Friday,TikTok,Georgia,46660,3188,103,3132,6180
+CMP010,Black Friday,YouTube,Turkey,49796,784,331,1501,15226
+CMP011,Black Friday,Instagram,Turkey,22691,4762,132,2756,2904
+CMP012,Black Friday,YouTube,Turkey,31290,2393,53,1828,2915
+CMP013,Black Friday,TikTok,Georgia,47129,3958,93,2269,2976
+CMP014,New Launch,Facebook,Azerbaijan,43311,3709,479,4880,31614
+CMP015,Black Friday,Facebook,Georgia,38392,4242,66,485,1914
+CMP016,New Launch,Instagram,Georgia,32666,720,217,3226,16058
+CMP017,Summer Sale,TikTok,Turkey,12507,4598,404,2285,23432
+CMP018,Black Friday,Instagram,Georgia,15365,3916,21,2257,1659
+CMP019,New Launch,Facebook,Georgia,24558,4358,331,1729,11254
+CMP020,Summer Sale,Instagram,Turkey,39757,204,326,2755,25102
